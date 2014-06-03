@@ -12,5 +12,6 @@
 @property (weak, nonatomic) IBOutlet UILabel *name;
 @property (weak, nonatomic) IBOutlet UITextField *namefield;
 @property (weak, nonatomic) IBOutlet UILabel *message;
+@property (weak, nonatomic) IBOutlet UITextField *messagefield;
 
 @end

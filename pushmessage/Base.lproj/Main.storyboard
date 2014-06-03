@@ -46,6 +46,7 @@
                     </view>
                     <connections>
                         <outlet property="message" destination="nMl-Qs-uAk" id="yg7-K8-msL"/>
+                        <outlet property="messagefield" destination="Bqj-Ln-zbc" id="V9F-Qj-ZaZ"/>
                         <outlet property="name" destination="qe8-k3-zcx" id="VQS-g5-U49"/>
                         <outlet property="namefield" destination="M7n-kU-FyK" id="Neh-2G-4EU"/>
                     </connections>
