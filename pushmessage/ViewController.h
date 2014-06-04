@@ -13,5 +13,7 @@
 @property (weak, nonatomic) IBOutlet UITextField *namefield;
 @property (weak, nonatomic) IBOutlet UILabel *message;
 @property (weak, nonatomic) IBOutlet UITextField *messagefield;
+- (IBAction)sendbutton:(id)sender;
+//- (IBAction)sendbutton:(id)sender;
 
 @end
